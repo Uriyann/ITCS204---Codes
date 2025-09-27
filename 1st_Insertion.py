@@ -18,7 +18,7 @@ def insertionSort(arr):
         arr[j+1] = key
   
 # Driver code to test above
-arr = [12, 11, 13, 5, 6]
+arr = [62, 34, 11, 23, 54]
 insertionSort(arr)
 print ("Sorted array is:")
 for i in range(len(arr)):
